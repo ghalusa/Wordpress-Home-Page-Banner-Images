@@ -1,0 +1,48 @@
+/* Messages and Alerts */
+
+#message
+{
+	padding: 6px;
+}
+
+.ordering_message
+{
+	color: red;
+}
+
+/* Form */
+
+.input-area
+{
+	padding: 0 0 40px 0;
+	width: 520px;
+}
+
+.input-area-left
+{
+	float: left;
+	margin: 10px 0 0 0;
+}
+
+.input-area-right
+{
+	float: right;
+}
+
+.text_input
+{
+	width: 236px;
+}
+
+/* Table */
+.dragging
+{
+	background-color: #efffe5;
+}
+
+tr.dragging td
+{
+	border-top-color: #333;
+	border-bottom-color: #333;
+}
+
